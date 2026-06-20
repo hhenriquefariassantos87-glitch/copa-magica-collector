@@ -41,6 +41,7 @@ function Index() {
             className="mx-auto mt-8 max-w-2xl rounded-2xl shadow-2xl ring-2 ring-white/30"
             loading="eager"
           />
+          <p className="mx-auto mt-6 max-w-2xl text-lg text-white/90 sm:text-xl">
             Todas as figurinhas da Copa em alta resolução. Baixe, imprima em casa quantas vezes quiser e complete seu álbum sem gastar uma fortuna.
           </p>
 
