@@ -128,7 +128,7 @@ function Index() {
               <span className="text-7xl font-black text-primary">20</span>
               <span className="text-xl font-bold text-accent">,00</span>
             </div>
-            <p className="text-sm text-muted-foreground">à vista · ou em até 4x sem juros</p>
+            <p className="text-sm text-muted-foreground">pagamento único · acesso vitalício</p>
 
             <a href="#" className="mt-6 inline-block w-full rounded-xl bg-primary px-8 py-5 text-lg font-black uppercase text-primary-foreground transition hover:opacity-90">
               Comprar agora por R$ 20
