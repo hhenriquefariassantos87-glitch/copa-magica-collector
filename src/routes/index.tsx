@@ -28,10 +28,7 @@ function Index() {
       <header className="bg-hero relative overflow-hidden">
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: "radial-gradient(circle at 20% 20%, white 1px, transparent 1px), radial-gradient(circle at 80% 60%, white 1px, transparent 1px)", backgroundSize: "40px 40px" }} />
         <div className="relative mx-auto max-w-5xl px-6 py-20 text-center text-white">
-          <span className="inline-block rounded-full bg-accent px-4 py-1 text-xs font-bold uppercase tracking-widest shadow-lg">
-            🔥 Oferta por tempo limitado
-          </span>
-          <h1 className="mt-6 text-5xl font-black uppercase leading-none sm:text-7xl">
+          <h1 className="text-5xl font-black uppercase leading-none sm:text-7xl">
             Álbum da Copa<br/>
             <span className="bg-gold bg-clip-text text-transparent">em PDF</span>
           </h1>
