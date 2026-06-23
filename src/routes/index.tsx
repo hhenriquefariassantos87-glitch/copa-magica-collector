@@ -1,4 +1,4 @@
-import figurinhasCopa from "@/assets/figurinhas-copa.png.asset.json";
+import bannerCopa from "@/assets/banner-copa.png.asset.json";
 import { createFileRoute } from "@tanstack/react-router";
 
 export const Route = createFileRoute("/")({
