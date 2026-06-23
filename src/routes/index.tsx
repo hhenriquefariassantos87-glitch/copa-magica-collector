@@ -38,7 +38,7 @@ function Index() {
           <img
             src={bannerCopa.url}
             alt="Figurinhas da Copa em PDF - banner para baixar e imprimir"
-            className="mx-auto mt-8 max-w-4xl rounded-2xl shadow-2xl ring-2 ring-white/30"
+            className="mx-auto mt-8 w-full max-w-xs rounded-2xl shadow-2xl ring-2 ring-white/30 sm:max-w-sm md:max-w-lg lg:max-w-2xl"
             loading="eager"
           />
           <p className="mx-auto mt-6 max-w-2xl text-lg text-white/90 sm:text-xl">
