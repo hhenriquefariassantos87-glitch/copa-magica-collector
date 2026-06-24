@@ -4,7 +4,7 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Álbum da Copa em PDF — Coleção Completa por R$20" },
+      { title: "Figurinhas da Copa em PDF — Coleção Completa por R$20" },
       { name: "description", content: "Baixe agora o álbum oficial da Copa em PDF com todas as figurinhas. Imprima quantas vezes quiser por apenas R$20." },
       { property: "og:title", content: "Álbum da Copa em PDF — R$20" },
       { property: "og:description", content: "Todas as figurinhas da Copa em PDF. Imprima em casa e complete seu álbum." },
@@ -29,7 +29,7 @@ function Index() {
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: "radial-gradient(circle at 20% 20%, white 1px, transparent 1px), radial-gradient(circle at 80% 60%, white 1px, transparent 1px)", backgroundSize: "40px 40px" }} />
         <div className="relative mx-auto max-w-5xl px-6 py-20 text-center text-white">
           <h1 className="text-5xl font-black uppercase leading-none sm:text-7xl">
-            Álbum da Copa<br/>
+            Figurinhas da Copa<br/>
             <span className="bg-gold bg-clip-text text-transparent">em PDF</span>
           </h1>
           <img
