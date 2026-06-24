@@ -4,7 +4,7 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Álbum da Copa em PDF — Coleção Completa por R$20" },
+      { title: "Figurinhas da Copa em PDF — Coleção Completa por R$20" },
       { name: "description", content: "Baixe agora o álbum oficial da Copa em PDF com todas as figurinhas. Imprima quantas vezes quiser por apenas R$20." },
       { property: "og:title", content: "Álbum da Copa em PDF — R$20" },
       { property: "og:description", content: "Todas as figurinhas da Copa em PDF. Imprima em casa e complete seu álbum." },
