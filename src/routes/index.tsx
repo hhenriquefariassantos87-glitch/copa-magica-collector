@@ -29,7 +29,7 @@ function Index() {
         <div className="absolute inset-0 opacity-20" style={{ backgroundImage: "radial-gradient(circle at 20% 20%, white 1px, transparent 1px), radial-gradient(circle at 80% 60%, white 1px, transparent 1px)", backgroundSize: "40px 40px" }} />
         <div className="relative mx-auto max-w-5xl px-6 py-20 text-center text-white">
           <h1 className="text-5xl font-black uppercase leading-none sm:text-7xl">
-            Álbum da Copa<br/>
+            Figurinhas da Copa<br/>
             <span className="bg-gold bg-clip-text text-transparent">em PDF</span>
           </h1>
           <img
